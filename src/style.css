@@ -1,0 +1,53 @@
+#image {
+  display: block;
+  max-width: 900px;
+  margin: auto;
+}
+
+h1 {
+  font-family: Monaco;
+  text-align: center;
+  font-size: 60px;
+  color: #666666;
+  margin-bottom: 5px;
+}
+
+h2 {
+  text-align: center;
+  font-family: Arial;
+}
+
+#img-caption {
+  position: relative;
+  text-align: center;
+  font-family: arial;
+  margin-top: 7px;
+}
+
+h3 {
+  font-family: Arial;
+  text-align: center;
+  font-size: 40px;
+}
+
+p {
+  font-family: arial;
+  max-width: 900px;
+  min-width: 400px;
+  margin: auto;
+}
+
+ul {
+  font-family: arial;
+  text-align: center;
+  list-style-position: inside;
+}
+
+#sign-off {
+  text-align: center;
+}
+
+footer {
+  text-align: right;
+  margin: 10px 20px 0px 30px
+}
